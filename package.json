@@ -8,6 +8,9 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
+    "deploy": "gh-pages -d dist"
+    "homepage": "https://Pauline-WN.github.io/MediateIt"
+
   },
   "dependencies": {
     "lucide-react": "^0.344.0",
